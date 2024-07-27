@@ -1,4 +1,5 @@
-# Electrum - Lightweight Bitcoin client [Official site](https://electrum-btc.org)_
+# Electrum - Lightweight Bitcoin client
+## [Official site](https://electrum-btc.org)
 
 ```
 Licence: MIT Licence
